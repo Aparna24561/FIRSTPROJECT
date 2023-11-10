@@ -7,4 +7,5 @@ class First
 		System.out.println("I am working in GITHUb");
 		System.out.println("I am studying in CSE branch");
 	}
+return 0;
 }
