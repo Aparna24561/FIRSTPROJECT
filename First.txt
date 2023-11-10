@@ -2,9 +2,9 @@ class First
 {
 	public static void main(string args[])
 	{
-		System.out.println("Hello World");
-		System.out.println("I am learning Java");
-		System.out.println("I am working in GITHUb");
+		System.out.println("Hello World!");
+		System.out.println("I am learning Java program");
+		System.out.println("I am working on GITHUb yahooo!");
 		System.out.println("I am studying in CSE branch");
 	}
 return 0;
